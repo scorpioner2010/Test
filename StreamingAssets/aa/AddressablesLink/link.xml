@@ -41,6 +41,7 @@
     <type fullname="RedDeck.Effect.TargetFreeze" preserve="all" />
     <type fullname="RedDeck.EmptyFilter" preserve="all" />
     <type fullname="RedDeck.EmptyFilterWithoutCaster" preserve="all" />
+    <type fullname="RedDeck.FieldMedicFilter" preserve="all" />
     <type fullname="RedDeck.FindOpponents.FindOpponentsScreen" preserve="all" />
     <type fullname="RedDeck.GetCardsByCasterType" preserve="all" />
     <type fullname="RedDeck.GetCardsByCasterTypeWithAmountType" preserve="all" />
@@ -53,10 +54,13 @@
     <type fullname="RedDeck.HeroPanel.HeroesPanelView" preserve="all" />
     <type fullname="RedDeck.HeroPanel.HeroPanelItemView" preserve="all" />
     <type fullname="RedDeck.HeroSelfFilter" preserve="all" />
+    <type fullname="RedDeck.HighCommanderSummonSet" preserve="all" />
+    <type fullname="RedDeck.IdsTargetsFilter" preserve="all" />
     <type fullname="RedDeck.IdTargetFilter" preserve="all" />
     <type fullname="RedDeck.MainMenu.MainMenuScreen" preserve="all" />
     <type fullname="RedDeck.RandomCardFilter" preserve="all" />
     <type fullname="RedDeck.RandomCardsFilter" preserve="all" />
+    <type fullname="RedDeck.RandomEnemyDeathAbility" preserve="all" />
     <type fullname="RedDeck.SelfCardFilterData" preserve="all" />
     <type fullname="RedDeck.StatusData" preserve="all" />
     <type fullname="RedDeck.StickyFilterMechanic" preserve="all" />
